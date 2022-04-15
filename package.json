@@ -1,8 +1,6 @@
 {
-  "name": "maryam-najibi-a05",
+  "name": "a04",
   "version": "0.0.0",
-
-
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
